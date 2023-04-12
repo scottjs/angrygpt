@@ -85,3 +85,5 @@ You can also tweak the voice setting values for stability and similarity.
 ## Apple Shortcut
 
 Download the MacOS shortcut from [here](https://www.icloud.com/shortcuts/c60a78691ed84e30a7eea9b71c1b3183).
+
+<img width="610" alt="Screenshot 2023-04-12 at 23 52" src="https://user-images.githubusercontent.com/994732/231603864-e80bf0fc-5324-4370-9f11-11b4c5852145.png">
