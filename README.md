@@ -12,7 +12,7 @@ A simple python is used to generate a unique conversation ID that keeps track of
 
 The GPT system message has been set to instruct the chatbot to be offensive, insulting and to include lots of swearing. Feel free to change the system prompt however you like.
 
-Text responses are then optionally piped into the [elevenlabs.io](https://beta.elevenlabs.io) text to speach voice synthesis API, which changes the tone of the voice based on context.
+Text responses are then piped into the [elevenlabs.io](https://beta.elevenlabs.io) text to speach voice synthesis API and streamed using FFmpeg. The voice tone changes based on context of the text and the results are wild. 
 
 **Note:** Conversations are stored in `~/conversations.json`, you can change this location in the Python script, line 27.
 
